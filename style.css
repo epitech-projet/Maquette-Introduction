@@ -1,0 +1,222 @@
+body
+{
+	display: flex;
+	flex-direction: column;
+	color: grey;
+
+}
+span
+{
+padding-right: 100px;
+}
+#couleur0
+{
+color: #ff5733;
+}
+
+#couleur1
+{
+color:  #FFC300;
+}
+
+#couleur2
+{
+color:  #7ddc32;
+}
+
+#couleur3
+{
+ color: #1f83dc;
+}
+
+#couleur4
+{
+
+color:#781fdc;
+}
+
+#menu_principal
+{
+display:flex;
+flex-wrap: nowrap;
+background-image: url("grille.png");
+width: 100%;
+justify-content:space-around; 
+align-items: center;
+margin: auto;
+}
+
+#logo
+{
+display:flex;
+flex-wrap: nowrap;
+justify-content: flex-end;
+align-items: center;
+list-style-type: none;
+padding: 20px;
+}
+
+#header
+{
+display:flex;
+flex-wrap: nowrap;
+background-image: url("grille.png");
+width: 100%;
+justify-content:center; 
+align-items: center;
+}
+
+#titre
+{
+list-style-type: none;
+justify-content: center;
+color: grey;		
+}
+h3
+{
+color: #ff5733;
+}
+}
+h4
+{
+color: #ff5733;	
+}
+h5
+{
+color: #000000;
+}
+ol
+{
+list-style-type: none;
+}
+
+#container
+{
+display:flex;
+flex-direction: column;
+justify-content: center;
+padding: 25px 25px 25px;
+}
+
+iframe
+{
+	margin: auto;
+}
+#center
+{
+display:flex;
+background-image: url("grille.png");
+width: 100%;
+justify-content: center;
+padding: 25px 25px 25px;
+}
+
+#article_centre
+{
+	display: flex;
+	justify-content: center;
+	padding-right: 150px;
+	padding-left: 300px;
+}
+
+#Golf
+{
+	text-decoration-color:#FF4500;
+	border: 1px solid grey;	
+	padding: 20px 20px 20px;
+}
+
+#centre_art
+{
+	display: flex;
+	flex-direction: column;
+	padding-right: 100px;
+	padding-left: 100px;
+}
+
+#Accrobranche
+{
+	text-decoration-color: #FF4500;
+}
+
+#Fast_foods
+{
+	text-decoration-color:#FF4500;
+	
+}
+
+#left_art
+{
+	display: flex;
+	flex-direction: column;
+	padding: 25px 25px 25px;
+
+}
+#Commentaire
+{
+	text-decoration-color:#FF4500;
+}
+#image_accrobranche
+{
+display: flex;
+flex-direction: column;	
+}
+
+#photos
+{
+border-width: : 1px solid grey;
+border-style: solid;
+border-color: grey;
+padding: 5px;
+padding-bottom: 25px;
+padding-top: 5px;
+}
+
+#image3
+{
+display: flex;
+justify-content: space-around;
+padding: 5px;
+}
+
+#image6
+{
+display: flex;
+justify-content: space-around;
+}
+
+#menu_second
+{
+display: flex;
+justify-content: center;
+background-image: url("grille.png");
+width: 100%;
+padding-right: 100px;
+padding-left: 100px;
+}
+
+#titre2
+{
+
+}
+
+#Contacter
+{
+
+}
+
+#Billet
+{
+padding-left: 100px;
+}
+
+#D_commentaire
+{
+padding-right: 100px;
+padding-left: 100px;
+}
+
+#blablaland
+{
+
+}
