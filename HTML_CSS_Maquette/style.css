@@ -1,0 +1,271 @@
+body
+{
+	display: flex;
+	flex-direction: column;
+	color: grey;
+	font-family: Droid Sans; 
+	font-size: 13px;
+}
+#titre
+{
+	color: grey;
+	font-family: Droid Serif; 
+	font-size: 13px;
+}
+span
+{
+	padding-right: 100px;
+}
+#couleur0
+{
+	border-bottom: 5px solid;
+	color: #ff5733;
+	
+}
+
+#couleur1
+{
+	border-bottom: 5px solid;
+	color:  #FFC300;
+}
+
+#couleur2
+{
+	border-bottom: 5px solid;
+	color:  #7ddc32;
+}
+
+#couleur3
+{
+	border-bottom: 5px solid;
+	color: #1f83dc;
+}
+
+#couleur4
+{
+	border-bottom: 5px solid;
+	color:#781fdc;
+}
+
+#menu_principal
+{
+	display:flex;
+	flex-wrap: nowrap;
+	background-image: url("grille.png");
+	width: 100%;
+	justify-content:space-around; 
+	align-items: center;
+	margin: auto;
+}
+
+#logo
+{
+	display:flex;
+	flex-wrap: nowrap;
+	justify-content: flex-end;
+	align-items: center;
+	list-style-type: none;
+	padding: 20px;
+}
+
+#header
+{
+	display:flex;
+	flex-wrap: nowrap;
+	background-image: url("grille.png");
+	width: 100%;
+	justify-content:center; 
+	align-items: center;
+}
+
+#ti,#ti1,#ti2,#ti3,#ti4
+{
+	list-style-type: none;
+	justify-content: center;
+	color: grey;		
+}
+h3
+{
+	color: #ff5733;
+}
+}
+h4
+{
+	color: #ff5733;	
+}
+h5
+{
+color: grey;
+	font-family: Oswald;
+	font-size: 15px;
+}
+ol
+{
+	list-style-type: none;
+}
+
+#container
+{
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 25px 25px 25px;
+	border-bottom: 1px solid #86a3b5 ;
+	padding-top: 20px;
+}
+
+iframe
+{
+	margin: auto;
+	border: 1px solid #86a3b5;
+}
+#center
+{
+	display:flex;
+	background-image: url("grille.png");
+	width: 100%;
+	justify-content: center;
+	border: 5px 5px 5px 5px solid grey;
+	padding-top: 20px;
+}
+
+#article_centre
+{
+	display: flex;
+	justify-content: center;
+	padding-right: 10px;
+	padding-left: 250px;
+	font-size: 13px;
+	padding-top: 20px;
+	margin:auto;
+}
+
+#Golf
+{
+	text-decoration-color:#c6c7c8;
+	border: 1px solid #e2e3e4;	
+	padding: 15px 15px 15px;
+}
+
+#centre_art
+{
+	display: flex;
+	flex-direction: column;
+	padding-right: 100px;
+	padding-left: 100px;
+}
+
+#Accrobranche
+{
+	text-decoration-color: #FF4500;
+}
+
+#Fast_foods
+{
+	text-decoration-color:#FF4500;
+	
+}
+
+#left_art
+{
+	display: flex;
+	flex-direction: column;
+	padding: 25px 25px 25px;
+
+}
+#Commentaire
+{
+	text-decoration-color:#FF4500;
+}
+#image_accrobranche
+{
+	display: flex;
+	flex-direction: column;	
+	padding-left: 5px;
+}
+
+#phot1,#phot2,#phot3,#phot4,#phot5,#phot6
+{
+	border: 1px solid #e2e3e4;	
+	padding: 1px 5px 1px 5px;
+	align-items: center;
+}
+
+#image3
+{
+	display: flex;
+	justify-content: center;
+}
+
+#image6
+{
+	display: flex;
+	justify-content: center;
+	
+}
+
+#menu_second
+{
+	display: flex;
+	justify-content: center;
+	background-image: url("grille.png");
+	width: 100%;
+	padding-right: 100px;
+	padding-left: 100px;
+	font-family: Droid Sans italic;
+}
+
+
+#Billet
+{
+	padding-left: 100px;
+}
+
+#D_commentaire
+{
+	padding-right: 100px;
+	padding-left: 100px;
+}
+
+
+#bas
+{
+	display: flex;
+	justify-content: space-around;
+	font-size: 11px;
+}
+
+#social
+{
+	display: flex;
+	justify-content: center;
+	padding: 4px 4px 4px 4px;
+}
+#rss
+{
+	padding: 3px 3px 3px 3px;
+}
+#email
+{
+	padding: 3px 3px 3px 3px;
+}
+
+#twitter
+{
+	padding: 3px 3px 3px 3px;
+}
+
+#facebook
+{
+	padding: 3px 3px 3px 3px;
+}
+
+#pinterest
+{
+	padding: 3px 3px 3px 3px;
+}
+
+#google
+{
+	padding: 3px 3px 3px 3px;	
+}
